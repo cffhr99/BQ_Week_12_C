@@ -35,7 +35,7 @@ THEN I am prompted to select an employee to update and their new role and this i
   npm install console.table
   node server.js
   ## Demo:
-  [Demo](https://github.com/cffhr99/BQ_Week_12_C/blob/main/demo.mov?raw=true)
+    Video : [Demo](https://github.com/cffhr99/BQ_Week_12_C/blob/main/demo.mov?raw=true)
   ## License:
   MIT License
   ## Contribution:
