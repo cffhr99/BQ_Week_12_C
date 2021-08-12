@@ -1,7 +1,7 @@
 # Employees Manager
   ## Table of Contents 
   - [Description](#description)
-  - [Acceptance Criteria](#Acceptance Criteria)
+  - [Acceptance_Criteria](#Acceptance Criteria)
   - [Installation](#installation)
   - [Usage](#usage)
   - [Contribution](#contributions)
