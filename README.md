@@ -2,7 +2,7 @@
   ## Table of Contents 
   - [Description](#description)
   - [Installation](#installation)
-  - [Usage](#usage)
+  - [Demo](#demo)
   - [Contribution](#contributions)
   - [Additional Info](#additional-info)
   ## Description:
@@ -33,8 +33,9 @@ THEN I am prompted to select an employee to update and their new role and this i
   npm install figlet  
   npm install inquirer  
   npm install console.table
-  ## Usage:
   node server.js
+  ## Demo:
+  [Demo](https://github.com/cffhr99/BQ_Week_12_C/blob/main/demo.mov?raw=true)
   ## License:
   MIT License
   ## Contribution:
